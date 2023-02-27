@@ -1,0 +1,15 @@
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.csproj.AssemblyReference.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.AssemblyInfoInputs.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.AssemblyInfo.cs
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.csproj.CoreCompileInputs.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\bin\Debug\net7.0\exp23.exe
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\bin\Debug\net7.0\exp23.deps.json
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\bin\Debug\net7.0\exp23.runtimeconfig.json
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\bin\Debug\net7.0\exp23.dll
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\bin\Debug\net7.0\exp23.pdb
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.dll
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\refint\exp23.dll
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.pdb
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\exp23.genruntimeconfig.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp23\obj\Debug\net7.0\ref\exp23.dll
