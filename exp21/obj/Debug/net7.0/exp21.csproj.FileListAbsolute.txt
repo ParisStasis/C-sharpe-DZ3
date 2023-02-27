@@ -1,0 +1,15 @@
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\bin\Debug\net7.0\exp21.exe
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\bin\Debug\net7.0\exp21.deps.json
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\bin\Debug\net7.0\exp21.runtimeconfig.json
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\bin\Debug\net7.0\exp21.dll
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\bin\Debug\net7.0\exp21.pdb
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.csproj.AssemblyReference.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.AssemblyInfoInputs.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.AssemblyInfo.cs
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.csproj.CoreCompileInputs.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.dll
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\refint\exp21.dll
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.pdb
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\exp21.genruntimeconfig.cache
+C:\Users\B-ZONE\Desktop\C#\C#dz3\exp21\obj\Debug\net7.0\ref\exp21.dll
